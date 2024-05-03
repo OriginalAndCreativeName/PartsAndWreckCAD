@@ -1,0 +1,10 @@
+Top x
+"BaseCircle"/2*(cos(t+"Beta"*pi/180)+t*sin(t+"Beta"*pi/180))
+Top y
+"BaseCircle"/2*(sin(t+"Beta"*pi/180)-t*cos(t+"Beta"*pi/180))
+Bot x
+"BaseCircle"/2*(cos(-t-"Beta"*pi/180)-t*sin(-t-"Beta"*pi/180))
+Bot y
+"BaseCircle"/2*(sin(-t-"Beta"*pi/180)+t*cos(-t-"Beta"*pi/180))
+Range
+All 0-"phi"	

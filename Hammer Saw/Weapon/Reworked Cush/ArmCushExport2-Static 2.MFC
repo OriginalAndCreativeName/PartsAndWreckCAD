@@ -1,0 +1,16 @@
+[StartTime]
+ArmCushExport2-Static 2.MFC=1s
+[SolverState]
+ArmCushExport2-Static 2.MFC=2
+[MainFrame]
+ArmCushExport2-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHHBAAAAAELDAAAAAKECAAAAA
+[ShowMin]
+ArmCushExport2-Static 2.MFC=No
+[SolverType]
+ArmCushExport2-Static 2.MFC=Linear Analysis
+[StudyType]
+ArmCushExport2-Static 2.MFC=0
+[StudyName]
+ArmCushExport2-Static 2.MFC=Static 2
+[Solver]
+ArmCushExport2-Static 2.MFC=Iterative
