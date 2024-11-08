@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('Top Armor L.STEP',
+    '2024-11-07T08:09:28',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2024',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#2 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #5, #8 ) ;
+#3 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #11 ) ;
+#4 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #1 ) ;
+#5 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #10, .NOT_KNOWN. ) ;
+#6 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #10 ) ) ;
+#7 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #2 ) ;
+#8 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #11, 'design' ) ;
+#9 = PRODUCT_CONTEXT ( 'NONE', #1, 'mechanical' ) ;
+#10 = PRODUCT ( 'Top Armor L', 'Top Armor L', '', ( #9 ) ) ;
+#11 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+ENDSEC;
+END-ISO-10303-21;
